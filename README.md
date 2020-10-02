@@ -17,7 +17,7 @@ $ docker-compose exec java bash
 ```
 ## コンパイル
 ```
- # janac Main.java
+ # javac Main.java
 ```
 ## 実行
 ```
