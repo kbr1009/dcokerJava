@@ -1,4 +1,8 @@
 # Javaの環境をdockerで構築する
+## 以下のディレクトリを追加
+```
+$ mkdir -p server/src
+```
 ## ファイルを元にビルドしていく
 ```
 $ docker-compose build
